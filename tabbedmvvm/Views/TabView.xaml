@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+             xmlns:tabView="clr-namespace:Syncfusion.XForms.TabView;assembly=Syncfusion.SfTabView.XForms" 
+             xmlns:viewModel="clr-namespace:tabbedmvvm.viewModel"
+             x:Class="tabbedmvvm.Views.TabView">
+    <ContentPage.BindingContext>
+        <viewModel:TabViewModel></viewModel:TabViewModel>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <tabView:SfTabView  Margin="0,0,0,0" 
+                                   x:Name="simTab" 
+                                   TabHeight="55"                                   
+                                   TabHeaderPosition="Bottom"
+                                   DisplayMode="Text"
+                                   EnableSwiping="False"
+                                   VisibleHeaderCount="-1">
+            <tabView:SfTabView.SelectionIndicatorSettings>
+                <tabView:SelectionIndicatorSettings Color="#CFCFCF"
+                                                        AnimationDuration="150"/>
+            </tabView:SfTabView.SelectionIndicatorSettings>
+            <!--<tabview:SfTabView.Items>
+            <tabview:SfTabItem Title="Tab1">
+                <tabview:SfTabItem.Content>
+                    <Label Text="Tab 1"/>
+                </tabview:SfTabItem.Content>
+            </tabview:SfTabItem>
+        </tabview:SfTabView.Items>-->
+        </tabView:SfTabView>
+    </ContentPage.Content>
+</ContentPage>

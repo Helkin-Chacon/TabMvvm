@@ -1,0 +1,15 @@
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\tabbedmvvm.csprojAssemblyReference.cache
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\Views\TabView.xaml.g.cs
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\tabbedmvvm.AssemblyInfoInputs.cache
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\tabbedmvvm.AssemblyInfo.cs
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\tabbedmvvm.csproj.CoreCompileInputs.cache
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\tabbedmvvm.dll
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\ref\tabbedmvvm.dll
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\tabbedmvvm.pdb
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\bin\Debug\netstandard2.0\tabbedmvvm.deps.json
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\bin\Debug\netstandard2.0\tabbedmvvm.dll
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\bin\Debug\netstandard2.0\ref\tabbedmvvm.dll
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\bin\Debug\netstandard2.0\tabbedmvvm.pdb
+C:\Users\HELKIN\source\repos\tabbedmvvm\tabbedmvvm\obj\Debug\netstandard2.0\XamlC.stamp
